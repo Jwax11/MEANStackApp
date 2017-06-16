@@ -5,8 +5,11 @@
   "main": ".mongorc.js",
   "dependencies": {
     "angular": "^1.6.4",
+    "body-parser": "^1.17.2",
     "jade": "^1.11.0",
-    "node": "^0.0.0"
+    "morgan": "^1.8.2",
+    "node": "^0.0.0",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {
     "bower": "^1.8.0"
