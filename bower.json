@@ -1,0 +1,17 @@
+{
+  "name": "jaw653",
+  "description": "MEAN stack application",
+  "main": ".mongorc.js",
+  "authors": [
+    "Jake Wachs"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Jwax11/MEANStackApp",
+  "private": true,
+  "dependencies": {
+    "toastr": "^2.1.3",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}

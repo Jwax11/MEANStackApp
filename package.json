@@ -1,0 +1,19 @@
+{
+  "name": "jaw653",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jade": "^1.11.0",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Wachs",
+  "license": "ISC"
+}
